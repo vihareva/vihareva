@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there 👋 
+### I'm 20 y.o. I'm a 4-year student of the BSUIR. I create SPA using a technology stack that consists of 
+### ✨React, Redux, TypeScript ✨ 
 
 <!--
-**vihareva/vihareva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vihareva/vihareva** is a  _special_repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -57,10 +59,22 @@ Here are some ideas to get you started:
 
 ### :writing_hand: My Applications :
 - :telescope:
- <a href="https://vihareva.github.io/PORTFOLIO/">Portfolio </a>
+ <a href="https://vihareva.github.io/PORTFOLIO/">Portfolio </a> 
+ <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+ <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
 
 - :seedling: 
 <a href="https://vihareva.github.io/social-network">Social Network </a>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" />
+
 - :zap:
 <a href="https://vihareva.github.io/todolistwithreduxtoolkit">Todolist </a>
-
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
