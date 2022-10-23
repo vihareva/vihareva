@@ -81,6 +81,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" />
 
 - :alarm_clock:
-<a href="https://vihareva.github.io/social-network">Todolist </a>
+<a href="https://vihareva.github.io/angular-todolist/">Todolist </a>
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
 
